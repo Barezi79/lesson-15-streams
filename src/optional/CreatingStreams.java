@@ -30,3 +30,5 @@ public class CreatingStreams {
 		dQueue.push(3.0);
 	}
 }
+
+// Copyright Branislav Nesic, 2019

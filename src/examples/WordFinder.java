@@ -69,3 +69,5 @@ class Word {
 	}
 	
 }
+
+// Copyright Branislav Nesic, 2019

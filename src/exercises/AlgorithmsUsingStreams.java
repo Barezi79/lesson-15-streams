@@ -77,3 +77,5 @@ public class AlgorithmsUsingStreams {
 	}
 
 }
+
+// Copyright Branislav Nesic, 2019

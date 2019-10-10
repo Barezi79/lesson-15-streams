@@ -37,3 +37,5 @@ class IrishPerson {
 	}
 
 }
+
+// Copyright Branislav Nesic, 2019

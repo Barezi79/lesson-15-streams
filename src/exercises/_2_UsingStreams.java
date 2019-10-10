@@ -127,3 +127,5 @@ public class _2_UsingStreams {
 		assertEquals(4, AlgorithmsUsingStreams.countOccurrences(strArr, "four"));
 	}
 }
+
+// Copyright Branislav Nesic, 2019

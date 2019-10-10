@@ -43,3 +43,5 @@ public class StreamBasics {
 	}
 
 }
+
+// Copyright Branislav Nesic, 2019
